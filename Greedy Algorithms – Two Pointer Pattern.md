@@ -193,4 +193,3 @@ Use this approach when:
 
 ---
 
-## ⭐ If this helped you, consider giving a star!
